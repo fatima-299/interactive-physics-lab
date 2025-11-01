@@ -73,8 +73,7 @@ m x'' + c x' + k x = 0
 
 ## 🚀 How to Run the Project
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app_interactive_physics_lab.py
 ```
 
 ### 1️⃣ Clone the repository:
